@@ -1,0 +1,28 @@
+header{
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+body{
+    border: 2px solid blue;
+}
+
+main{
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+    margin-left: 29%;
+}
+
+figure{
+    margin: 0;
+}
+
+figcaption{
+    text-align: center;
+}
