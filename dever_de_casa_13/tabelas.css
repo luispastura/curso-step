@@ -1,0 +1,44 @@
+table, tr, td, th {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+
+.azul-tabela {
+    background-color: rgb(100, 185, 209);  
+}
+
+div {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.azul-titulo{
+    color: blue;
+    font-size: 1.5em;
+}
+
+.verde-titulo{
+    color: white;
+    background-color: rgb(64, 168, 104);
+}
+
+.cinza-fundo{
+    background-color: rgb(189, 179, 179);
+}
+
+b{
+    font-size: 1.5em;
+}
+
+table.borda-branca,table.borda-branca tr,table.borda-branca td, table.borda-branca th{
+    border: 1px groove white;
+}
+
+caption{
+    caption-side: bottom;
+    text-align: left;
+}
